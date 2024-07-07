@@ -3,7 +3,7 @@ module.exports = {
         {
             name: 'promptopia',
             script: 'bun',
-            args: 'start',
+            args: 'run start',
         }
     ]
 };
